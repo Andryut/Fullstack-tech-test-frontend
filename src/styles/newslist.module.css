@@ -1,0 +1,14 @@
+.cardBody {
+    user-select: none;
+    display: flex;
+    align-items: stretch;
+}
+
+.loading {
+    height: 100px;
+    margin: 30px;
+}
+
+.scrollableList {
+    min-height: 800px;
+}
