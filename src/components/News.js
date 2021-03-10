@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import ReactHtmlParser from 'react-html-parser';
 import { getNews } from '../backendService';
-import styles from "../styles/news.module.css";
 
 /**
  * Renders a new fetched from the backend service
